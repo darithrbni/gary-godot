@@ -7,6 +7,7 @@ Selamat datang, para anggota GARY! Repositori ini berisi projek starter Godot ya
 - **Bagian 2:** Jika kalian ingin melanjutkan projek dan mengumpulkan progresnya untuk di-*review*.
 
 
+
 ## 📦 Bagian 1: Cara Download & Membuka Projek di Godot
 
 Kalian tidak perlu mengerti GitHub atau *coding* untuk mulai mencoba Projek ini. Ikuti langkah-langkah berikut:
@@ -25,7 +26,7 @@ Godot bisa langsung membaca file `.zip` tanpa perlu kalian ekstrak secara manual
 5. Pilih folder kosong di komputer kalian sebagai tempat mengekstrak dan menyimpan Projek ini (disarankan membuat folder baru), lalu klik **`Select Current Folder`**.
 6. Klik tombol **`Import & Edit`**. Projek akan otomatis terbuka di dalam editor Godot!
 
----
+
 
 ## 🚀 Bagian 2: Cara Mengumpulkan Progres (Fork & Submit)
 
