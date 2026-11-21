@@ -1,6 +1,6 @@
 https://github.com/user-attachments/assets/f17b2070-a490-4287-9140-d212c8f5793a
 
-# Projek Game Platformer Simpel GARY
+# 🎮 Projek Game Platformer Simpel GARY 👾
 
 Selamat datang, para anggota GARY! Repositori ini berisi projek starter Godot yang bisa langsung kalian download dan pelajari. Projek ini merupakan checkpoint dari Weekly Meet #2, yang bisa kalian coba teruskan sesuka kalian. Ikuti panduan di bawah ini sesuai dengan kebutuhan kalian:
 - **Bagian 1:** Jika kalian hanya ingin membuka dan menjalankan Projek Godot di komputer kalian.
@@ -59,4 +59,4 @@ Setelah progres kalian di-*push* ke akun GitHub milik kalian, kirimkan laporan p
 2. Klik tab **`Pull requests`** di bagian atas, lalu klik tombol hijau **`New pull request`**.
 3. Pastikan arah panah menunjukkan dari repositori *fork* milik kalian menuju repositori utama ini, lalu klik tombol hijau **`Create pull request`**.
 4. Tulis nama lengkap kalian dan catatan singkat mengenai apa saja yang sudah kalian kerjakan, lalu klik **`Create pull request`**.
-5. Selesai!
+5. Selesai! Beritahu kakak-kakak dari GARY bahwa kalian telah berhasil melanjutkan projek
