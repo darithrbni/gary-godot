@@ -6,7 +6,6 @@ Selamat datang, para anggota GARY! Repositori ini berisi projek starter Godot ya
 - **Bagian 1:** Jika kalian hanya ingin membuka dan menjalankan Projek Godot di komputer kalian.
 - **Bagian 2:** Jika kalian ingin melanjutkan projek dan mengumpulkan progresnya untuk di-*review*.
 
----
 
 ## 📦 Bagian 1: Cara Download & Membuka Projek di Godot
 
