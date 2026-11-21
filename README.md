@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/f17b2070-a490-4287-9140-d212c8f5793a
+https://github.com/user-attachments/assets/b65108f5-e6ec-4072-9e40-6d5e73ed6cdf
 
 # 👾 Projek Game Platformer Simpel GARY 👾
 
