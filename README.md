@@ -1,6 +1,6 @@
 https://github.com/user-attachments/assets/f17b2070-a490-4287-9140-d212c8f5793a
 
-# 🎮 Projek Game Platformer Simpel GARY 👾
+# 👾 Projek Game Platformer Simpel GARY 👾
 
 Selamat datang, para anggota GARY! Repositori ini berisi projek starter Godot yang bisa langsung kalian download dan pelajari. Projek ini merupakan checkpoint dari Weekly Meet #2, yang bisa kalian coba teruskan sesuka kalian. Ikuti panduan di bawah ini sesuai dengan kebutuhan kalian:
 - **Bagian 1:** Jika kalian hanya ingin membuka dan menjalankan Projek Godot di komputer kalian.
